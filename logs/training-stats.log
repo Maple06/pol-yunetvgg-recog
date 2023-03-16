@@ -1,0 +1,255 @@
+2023-03-13 14:29:07,717 - app - INFO - updateDataset:44 - Updating datasets... (This may took a while)
+2023-03-13 14:32:15,022 - app - INFO - updateDataset:65 - Datasets updated!
+2023-03-13 14:32:15,024 - app - INFO - encodeFaces:29 - Encoding Faces... (This may take a while)
+2023-03-13 14:57:13,683 - app - INFO - encodeFaces:41 - Encoding Done!
+2023-03-13 14:58:38,739 - app - INFO - process:39 - Saving image to D:\Programming\Workbooks\01. Kazee\pol-recog/data/output/20230313/1/data/input.jpg
+2023-03-13 15:03:22,198 - app - INFO - updateDataset:44 - Updating datasets... (This may took a while)
+2023-03-13 15:06:30,544 - app - INFO - updateDataset:65 - Datasets updated!
+2023-03-13 15:06:30,547 - app - INFO - encodeFaces:29 - Encoding Faces... (This may take a while)
+2023-03-13 15:31:33,465 - app - INFO - encodeFaces:41 - Encoding Done!
+2023-03-13 15:37:07,176 - app - INFO - process:42 - Saving image to D:\Programming\Workbooks\01. Kazee\pol-recog/data/output/20230313/2/data/input.jpg
+2023-03-13 15:37:07,202 - app - INFO - getFaceCoordinates:115 - Grabbing faces detected from input image
+2023-03-13 15:38:54,653 - app - INFO - updateDataset:44 - Updating datasets... (This may took a while)
+2023-03-13 15:41:55,497 - app - INFO - updateDataset:65 - Datasets updated!
+2023-03-13 15:41:55,499 - app - INFO - encodeFaces:29 - Encoding Faces... (This may take a while)
+2023-03-13 16:06:59,523 - app - INFO - encodeFaces:41 - Encoding Done!
+2023-03-13 16:15:58,942 - app - INFO - process:42 - Saving image to D:\Programming\Workbooks\01. Kazee\pol-recog/data/output/20230313/3/data/input.jpg
+2023-03-13 16:15:59,042 - app - INFO - getFaceCoordinates:115 - Grabbing faces detected from input image
+2023-03-13 16:15:59,248 - app - INFO - getFaceCoordinates:158 - Face grab success. Got total faces of 1
+2023-03-13 16:15:59,262 - app - INFO - recog:85 - Recognizing faces into user IDs
+2023-03-13 16:16:01,056 - app - INFO - process:77 - API return success. Request fulfilled.
+2023-03-13 16:16:31,195 - app - INFO - process:42 - Saving image to D:\Programming\Workbooks\01. Kazee\pol-recog/data/output/20230313/4/data/input.jpg
+2023-03-13 16:16:31,238 - app - INFO - getFaceCoordinates:115 - Grabbing faces detected from input image
+2023-03-13 16:16:31,409 - app - INFO - getFaceCoordinates:158 - Face grab success. Got total faces of 1
+2023-03-13 16:16:31,413 - app - INFO - recog:85 - Recognizing faces into user IDs
+2023-03-13 16:16:33,151 - app - INFO - process:77 - API return success. Request fulfilled.
+2023-03-16 08:29:12,934 - app - INFO - updateDataset:190 - Updating datasets... (This may took a while)
+2023-03-16 08:30:07,335 - app - INFO - updateDataset:190 - Updating datasets... (This may took a while)
+2023-03-16 08:35:14,535 - app - ERROR - imgAugmentation:231 - ERROR - OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:783: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+. Filename: C:\Project\pol-vgg/data/dataset/64002924e3ef43e72bf1b84e/64002924e3ef43e72bf1b84e.jpg
+2023-03-16 08:36:30,012 - app - ERROR - imgAugmentation:231 - ERROR - OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:783: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+. Filename: C:\Project\pol-vgg/data/dataset/64002924e3ef43e72bf1b866/64002924e3ef43e72bf1b866.jpg
+2023-03-16 08:36:35,402 - app - ERROR - imgAugmentation:231 - ERROR - OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:783: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+. Filename: C:\Project\pol-vgg/data/dataset/64002924e3ef43e72bf1b868/64002924e3ef43e72bf1b868.jpg
+2023-03-16 08:37:25,946 - app - ERROR - imgAugmentation:231 - ERROR - 'NoneType' object has no attribute 'shape'. Filename: C:\Project\pol-vgg/data/dataset/64002924e3ef43e72bf1b879/64002924e3ef43e72bf1b879.jpg
+2023-03-16 08:37:57,272 - app - INFO - updateDataset:216 - Datasets updated!
+2023-03-16 08:37:57,272 - app - INFO - encodeFaces:43 - Encoding Faces... (This may take a while)
+2023-03-16 09:01:32,530 - app - INFO - encodeFaces:123 - Encoding Done!
+2023-03-16 09:11:37,614 - app - INFO - process:42 - Saving image to C:\Project\pol-vgg/data/output/20230316/1/data/input.jpg
+2023-03-16 09:11:37,616 - app - INFO - recog:126 - Recognizing faces into user IDs
+2023-03-16 09:12:32,564 - app - INFO - updateDataset:190 - Updating datasets... (This may took a while)
+2023-03-16 09:15:11,951 - app - ERROR - imgAugmentation:231 - ERROR - OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:783: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+. Filename: C:\Project\pol-vgg/data/dataset/64002924e3ef43e72bf1b84e/64002924e3ef43e72bf1b84e.jpg
+2023-03-16 09:16:36,071 - app - ERROR - imgAugmentation:231 - ERROR - OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:783: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+. Filename: C:\Project\pol-vgg/data/dataset/64002924e3ef43e72bf1b866/64002924e3ef43e72bf1b866.jpg
+2023-03-16 09:16:41,800 - app - ERROR - imgAugmentation:231 - ERROR - OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:783: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+. Filename: C:\Project\pol-vgg/data/dataset/64002924e3ef43e72bf1b868/64002924e3ef43e72bf1b868.jpg
+2023-03-16 09:17:38,380 - app - ERROR - imgAugmentation:231 - ERROR - 'NoneType' object has no attribute 'shape'. Filename: C:\Project\pol-vgg/data/dataset/64002924e3ef43e72bf1b879/64002924e3ef43e72bf1b879.jpg
+2023-03-16 09:18:18,167 - app - INFO - updateDataset:216 - Datasets updated!
+2023-03-16 09:18:18,168 - app - INFO - encodeFaces:43 - Encoding Faces... (This may take a while)
+2023-03-16 09:42:56,573 - app - INFO - encodeFaces:123 - Encoding Done!
+2023-03-16 09:43:02,070 - app - INFO - process:42 - Saving image to C:\Project\pol-vgg/data/output/20230316/2/data/input.jpg
+2023-03-16 09:43:02,071 - app - INFO - recog:126 - Recognizing faces into user IDs
+2023-03-16 09:46:09,768 - app - INFO - updateDataset:190 - Updating datasets... (This may took a while)
+2023-03-16 09:48:45,300 - app - ERROR - imgAugmentation:231 - ERROR - OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:783: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+. Filename: C:\Project\pol-vgg/data/dataset/64002924e3ef43e72bf1b84e/64002924e3ef43e72bf1b84e.jpg
+2023-03-16 09:49:56,968 - app - ERROR - imgAugmentation:231 - ERROR - OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:783: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+. Filename: C:\Project\pol-vgg/data/dataset/64002924e3ef43e72bf1b866/64002924e3ef43e72bf1b866.jpg
+2023-03-16 09:50:02,265 - app - ERROR - imgAugmentation:231 - ERROR - OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:783: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+. Filename: C:\Project\pol-vgg/data/dataset/64002924e3ef43e72bf1b868/64002924e3ef43e72bf1b868.jpg
+2023-03-16 09:51:08,758 - app - ERROR - imgAugmentation:231 - ERROR - 'NoneType' object has no attribute 'shape'. Filename: C:\Project\pol-vgg/data/dataset/64002924e3ef43e72bf1b879/64002924e3ef43e72bf1b879.jpg
+2023-03-16 09:51:48,180 - app - INFO - updateDataset:216 - Datasets updated!
+2023-03-16 09:51:48,180 - app - INFO - encodeFaces:43 - Encoding Faces... (This may take a while)
+2023-03-16 10:00:22,857 - app - INFO - encodeFaces:41 - ENCODING AND UPDATE SKIPPED. MODEL EXISTS.
+2023-03-16 10:00:22,857 - app - INFO - updateDataset:198 - Updating datasets... (This may took a while)
+2023-03-16 10:01:11,493 - app - INFO - encodeFaces:41 - ENCODING AND UPDATE SKIPPED. MODEL EXISTS.
+2023-03-16 10:03:27,390 - app - INFO - encodeFaces:41 - ENCODING AND UPDATE SKIPPED. MODEL EXISTS.
+2023-03-16 10:03:34,983 - app - INFO - process:42 - Saving image to C:\Project\pol-vgg/data/output/20230316/3/data/input.jpg
+2023-03-16 10:03:34,983 - app - INFO - recog:134 - Recognizing faces into user IDs
+2023-03-16 10:03:36,293 - app - INFO - process:60 - API return success. Request fulfilled.
+2023-03-16 10:06:42,734 - app - INFO - encodeFaces:41 - ENCODING AND UPDATE SKIPPED. MODEL EXISTS.
+2023-03-16 10:06:46,897 - app - INFO - process:42 - Saving image to C:\Project\pol-vgg/data/output/20230316/4/data/input.jpg
+2023-03-16 10:06:46,897 - app - INFO - recog:134 - Recognizing faces into user IDs
+2023-03-16 10:08:04,527 - app - INFO - encodeFaces:41 - ENCODING AND UPDATE SKIPPED. MODEL EXISTS.
+2023-03-16 10:08:11,289 - app - INFO - process:42 - Saving image to C:\Project\pol-vgg/data/output/20230316/5/data/input.jpg
+2023-03-16 10:08:11,291 - app - INFO - recog:134 - Recognizing faces into user IDs
+2023-03-16 10:08:13,656 - app - INFO - process:60 - API return success. Request fulfilled.
+2023-03-16 10:08:52,866 - app - INFO - encodeFaces:41 - ENCODING AND UPDATE SKIPPED. MODEL EXISTS.
+2023-03-16 10:08:53,032 - app - INFO - process:42 - Saving image to C:\Project\pol-vgg/data/output/20230316/6/data/input.jpg
+2023-03-16 10:08:53,034 - app - INFO - recog:134 - Recognizing faces into user IDs
+2023-03-16 10:08:55,538 - app - INFO - process:60 - API return success. Request fulfilled.
+2023-03-16 10:12:19,578 - app - INFO - encodeFaces:41 - ENCODING AND UPDATE SKIPPED. MODEL EXISTS.
+2023-03-16 10:12:43,169 - app - INFO - process:42 - Saving image to C:\Project\pol-vgg/data/output/20230316/7/data/input.jpg
+2023-03-16 10:12:43,170 - app - INFO - recog:134 - Recognizing faces into user IDs
+2023-03-16 10:12:45,794 - app - INFO - process:60 - API return success. Request fulfilled.
+2023-03-16 10:13:18,120 - app - INFO - encodeFaces:41 - ENCODING AND UPDATE SKIPPED. MODEL EXISTS.
+2023-03-16 10:13:18,293 - app - INFO - process:42 - Saving image to C:\Project\pol-vgg/data/output/20230316/8/data/input.jpg
+2023-03-16 10:13:18,295 - app - INFO - recog:134 - Recognizing faces into user IDs
+2023-03-16 10:13:20,942 - app - INFO - process:60 - API return success. Request fulfilled.
+2023-03-16 10:14:39,279 - app - INFO - process:42 - Saving image to C:\Project\pol-vgg/data/output/20230316/9/data/input.jpg
+2023-03-16 10:14:39,279 - app - INFO - recog:134 - Recognizing faces into user IDs
+2023-03-16 10:14:41,698 - app - INFO - process:60 - API return success. Request fulfilled.
+2023-03-16 10:19:40,967 - app - INFO - encodeFaces:41 - ENCODING AND UPDATE SKIPPED. MODEL EXISTS.
+2023-03-16 10:19:59,816 - app - INFO - encodeFaces:41 - ENCODING AND UPDATE SKIPPED. MODEL EXISTS.
+2023-03-16 10:23:14,996 - app - INFO - encodeFaces:48 - First time training, creating new initial train file.
+2023-03-16 10:23:14,996 - app - INFO - updateDataset:200 - Updating datasets... (This may took a while)
+2023-03-16 10:23:50,671 - app - ERROR - imgAugmentation:242 - ERROR - not enough values to unpack (expected 3, got 2). Filename: C:\Project\pol-vgg/data/dataset/64002924e3ef43e72bf1b827/64002924e3ef43e72bf1b827.jpg
+2023-03-16 10:24:09,978 - app - ERROR - imgAugmentation:242 - ERROR - OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\dnn\src\layers\convolution_layer.cpp:420: error: (-2:Unspecified error) Number of input channels should be multiple of 3 but got 4 in function 'cv::dnn::ConvolutionLayerImpl::getMemoryShapes'
+. Filename: C:\Project\pol-vgg/data/dataset/64002924e3ef43e72bf1b82c/64002924e3ef43e72bf1b82c.jpg
+2023-03-16 10:24:32,241 - app - ERROR - imgAugmentation:242 - ERROR - OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\dnn\src\layers\convolution_layer.cpp:420: error: (-2:Unspecified error) Number of input channels should be multiple of 3 but got 4 in function 'cv::dnn::ConvolutionLayerImpl::getMemoryShapes'
+. Filename: C:\Project\pol-vgg/data/dataset/64002924e3ef43e72bf1b832/64002924e3ef43e72bf1b832.jpg
+2023-03-16 10:24:59,939 - app - ERROR - imgAugmentation:242 - ERROR - OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\dnn\src\layers\convolution_layer.cpp:420: error: (-2:Unspecified error) Number of input channels should be multiple of 3 but got 4 in function 'cv::dnn::ConvolutionLayerImpl::getMemoryShapes'
+. Filename: C:\Project\pol-vgg/data/dataset/64002924e3ef43e72bf1b83a/64002924e3ef43e72bf1b83a.jpg
+2023-03-16 10:25:25,751 - app - INFO - encodeFaces:48 - First time training, creating new initial train file.
+2023-03-16 10:25:25,751 - app - INFO - updateDataset:200 - Updating datasets... (This may took a while)
+2023-03-16 10:28:22,664 - app - ERROR - imgAugmentation:243 - ERROR - OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:783: error: (-215:Assertion failed) !_img.empty() in function 'cv::imwrite'
+. Filename: C:\Project\pol-vgg/data/dataset/64002924e3ef43e72bf1b84e/64002924e3ef43e72bf1b84e.jpg
+2023-03-16 10:28:42,296 - app - INFO - encodeFaces:48 - First time training, creating new initial train file.
+2023-03-16 10:28:42,296 - app - INFO - updateDataset:200 - Updating datasets... (This may took a while)
+2023-03-16 10:29:45,912 - app - INFO - encodeFaces:48 - First time training, creating new initial train file.
+2023-03-16 10:29:45,912 - app - INFO - updateDataset:200 - Updating datasets... (This may took a while)
+2023-03-16 10:30:20,700 - app - ERROR - imgAugmentation:242 - ERROR - not enough values to unpack (expected 3, got 2). Filename: C:\Project\pol-vgg/data/dataset/64002924e3ef43e72bf1b827/64002924e3ef43e72bf1b827.jpg
+2023-03-16 10:30:37,795 - app - ERROR - imgAugmentation:242 - ERROR - OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\dnn\src\layers\convolution_layer.cpp:420: error: (-2:Unspecified error) Number of input channels should be multiple of 3 but got 4 in function 'cv::dnn::ConvolutionLayerImpl::getMemoryShapes'
+. Filename: C:\Project\pol-vgg/data/dataset/64002924e3ef43e72bf1b82c/64002924e3ef43e72bf1b82c.jpg
+2023-03-16 10:30:56,592 - app - ERROR - imgAugmentation:242 - ERROR - OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\dnn\src\layers\convolution_layer.cpp:420: error: (-2:Unspecified error) Number of input channels should be multiple of 3 but got 4 in function 'cv::dnn::ConvolutionLayerImpl::getMemoryShapes'
+. Filename: C:\Project\pol-vgg/data/dataset/64002924e3ef43e72bf1b832/64002924e3ef43e72bf1b832.jpg
+2023-03-16 10:31:21,652 - app - ERROR - imgAugmentation:242 - ERROR - OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\dnn\src\layers\convolution_layer.cpp:420: error: (-2:Unspecified error) Number of input channels should be multiple of 3 but got 4 in function 'cv::dnn::ConvolutionLayerImpl::getMemoryShapes'
+. Filename: C:\Project\pol-vgg/data/dataset/64002924e3ef43e72bf1b83a/64002924e3ef43e72bf1b83a.jpg
+2023-03-16 10:31:48,388 - app - ERROR - imgAugmentation:242 - ERROR - OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\dnn\src\layers\convolution_layer.cpp:420: error: (-2:Unspecified error) Number of input channels should be multiple of 3 but got 4 in function 'cv::dnn::ConvolutionLayerImpl::getMemoryShapes'
+. Filename: C:\Project\pol-vgg/data/dataset/64002924e3ef43e72bf1b841/64002924e3ef43e72bf1b841.jpg
+2023-03-16 10:31:57,043 - app - ERROR - imgAugmentation:242 - ERROR - OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\dnn\src\layers\convolution_layer.cpp:420: error: (-2:Unspecified error) Number of input channels should be multiple of 3 but got 4 in function 'cv::dnn::ConvolutionLayerImpl::getMemoryShapes'
+. Filename: C:\Project\pol-vgg/data/dataset/64002924e3ef43e72bf1b842/64002924e3ef43e72bf1b842.jpg
+2023-03-16 10:32:05,909 - app - ERROR - imgAugmentation:242 - ERROR - OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\dnn\src\layers\convolution_layer.cpp:420: error: (-2:Unspecified error) Number of input channels should be multiple of 3 but got 4 in function 'cv::dnn::ConvolutionLayerImpl::getMemoryShapes'
+. Filename: C:\Project\pol-vgg/data/dataset/64002924e3ef43e72bf1b845/64002924e3ef43e72bf1b845.jpg
+2023-03-16 10:32:25,801 - app - INFO - encodeFaces:48 - First time training, creating new initial train file.
+2023-03-16 10:32:25,802 - app - INFO - updateDataset:200 - Updating datasets... (This may took a while)
+2023-03-16 10:32:56,083 - app - ERROR - imgAugmentation:242 - ERROR - not enough values to unpack (expected 3, got 2). Filename: C:\Project\pol-vgg/data/dataset/64002924e3ef43e72bf1b827/64002924e3ef43e72bf1b827.jpg
+2023-03-16 10:33:02,287 - app - INFO - encodeFaces:48 - First time training, creating new initial train file.
+2023-03-16 10:33:02,287 - app - INFO - updateDataset:200 - Updating datasets... (This may took a while)
+2023-03-16 10:35:55,400 - app - ERROR - imgAugmentation:243 - ERROR - OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+. Filename: C:\Project\pol-vgg/data/dataset/64002924e3ef43e72bf1b84e/64002924e3ef43e72bf1b84e.jpg
+2023-03-16 10:37:12,383 - app - ERROR - imgAugmentation:243 - ERROR - OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+. Filename: C:\Project\pol-vgg/data/dataset/64002924e3ef43e72bf1b866/64002924e3ef43e72bf1b866.jpg
+2023-03-16 10:37:18,297 - app - ERROR - imgAugmentation:243 - ERROR - OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+. Filename: C:\Project\pol-vgg/data/dataset/64002924e3ef43e72bf1b868/64002924e3ef43e72bf1b868.jpg
+2023-03-16 10:38:14,278 - app - INFO - encodeFaces:48 - First time training, creating new initial train file.
+2023-03-16 10:38:14,278 - app - INFO - updateDataset:200 - Updating datasets... (This may took a while)
+2023-03-16 10:38:54,849 - app - INFO - encodeFaces:48 - First time training, creating new initial train file.
+2023-03-16 10:38:54,851 - app - INFO - updateDataset:200 - Updating datasets... (This may took a while)
+2023-03-16 10:42:08,319 - app - ERROR - imgAugmentation:244 - ERROR - tile cannot extend outside image. Filename: C:\Project\pol-vgg/data/dataset/64002924e3ef43e72bf1b84e/64002924e3ef43e72bf1b84e.jpg
+2023-03-16 10:43:27,532 - app - ERROR - imgAugmentation:244 - ERROR - tile cannot extend outside image. Filename: C:\Project\pol-vgg/data/dataset/64002924e3ef43e72bf1b866/64002924e3ef43e72bf1b866.jpg
+2023-03-16 10:43:32,874 - app - ERROR - imgAugmentation:244 - ERROR - tile cannot extend outside image. Filename: C:\Project\pol-vgg/data/dataset/64002924e3ef43e72bf1b868/64002924e3ef43e72bf1b868.jpg
+2023-03-16 10:45:17,453 - app - INFO - updateDataset:226 - Datasets updated!
+2023-03-16 10:45:17,454 - app - INFO - encodeFaces:54 - Encoding Faces... (This may take a while)
+2023-03-16 10:45:27,239 - app - INFO - encodeFaces:48 - First time training, creating new initial train file.
+2023-03-16 10:45:27,239 - app - INFO - updateDataset:200 - Updating datasets... (This may took a while)
+2023-03-16 10:46:21,902 - app - INFO - encodeFaces:48 - First time training, creating new initial train file.
+2023-03-16 10:46:21,907 - app - INFO - updateDataset:200 - Updating datasets... (This may took a while)
+2023-03-16 10:46:45,598 - app - INFO - encodeFaces:48 - First time training, creating new initial train file.
+2023-03-16 10:46:45,598 - app - INFO - updateDataset:200 - Updating datasets... (This may took a while)
+2023-03-16 10:49:21,915 - app - ERROR - imgAugmentation:243 - ERROR - OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+. Filename: C:\Project\pol-vgg/data/dataset/64002924e3ef43e72bf1b84e/64002924e3ef43e72bf1b84e.jpg
+2023-03-16 10:50:35,995 - app - ERROR - imgAugmentation:243 - ERROR - OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+. Filename: C:\Project\pol-vgg/data/dataset/64002924e3ef43e72bf1b866/64002924e3ef43e72bf1b866.jpg
+2023-03-16 10:50:41,525 - app - ERROR - imgAugmentation:243 - ERROR - OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+. Filename: C:\Project\pol-vgg/data/dataset/64002924e3ef43e72bf1b868/64002924e3ef43e72bf1b868.jpg
+2023-03-16 10:52:09,433 - app - INFO - updateDataset:226 - Datasets updated!
+2023-03-16 10:52:09,435 - app - INFO - encodeFaces:54 - Encoding Faces... (This may take a while)
+2023-03-16 11:01:02,208 - app - INFO - encodeFaces:48 - First time training, creating new initial train file.
+2023-03-16 11:01:02,209 - app - INFO - updateDataset:200 - Updating datasets... (This may took a while)
+2023-03-16 11:40:36,440 - app - INFO - encodeFaces:48 - First time training, creating new initial train file.
+2023-03-16 11:40:36,445 - app - INFO - updateDataset:210 - Updating datasets... (This may took a while)
+2023-03-16 11:43:14,157 - app - ERROR - imgAugmentation:259 - ERROR - OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\objdetect\src\face_detect.cpp:99: error: (-2:Unspecified error) in function 'int __cdecl cv::FaceDetectorYNImpl::detect(const class cv::_InputArray &,const class cv::_OutputArray &)'
+> Size does not match. Call setInputSize(size) if input size does not match the preset size (expected: 'input_image.size() == Size(inputW, inputH)'), where
+>     'input_image.size()' is [700 x 393]
+> must be equal to
+>     'Size(inputW, inputH)' is [224 x 224]
+. Filename: C:\Project\pol-vgg-yunet/data/dataset/64002924e3ef43e72bf1b820/64002924e3ef43e72bf1b820.jpg
+2023-03-16 11:43:17,230 - app - ERROR - imgAugmentation:259 - ERROR - OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\objdetect\src\face_detect.cpp:99: error: (-2:Unspecified error) in function 'int __cdecl cv::FaceDetectorYNImpl::detect(const class cv::_InputArray &,const class cv::_OutputArray &)'
+> Size does not match. Call setInputSize(size) if input size does not match the preset size (expected: 'input_image.size() == Size(inputW, inputH)'), where
+>     'input_image.size()' is [220 x 293]
+> must be equal to
+>     'Size(inputW, inputH)' is [224 x 224]
+. Filename: C:\Project\pol-vgg-yunet/data/dataset/64002924e3ef43e72bf1b821/64002924e3ef43e72bf1b821.jpg
+2023-03-16 11:43:20,060 - app - ERROR - imgAugmentation:259 - ERROR - OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\objdetect\src\face_detect.cpp:99: error: (-2:Unspecified error) in function 'int __cdecl cv::FaceDetectorYNImpl::detect(const class cv::_InputArray &,const class cv::_OutputArray &)'
+> Size does not match. Call setInputSize(size) if input size does not match the preset size (expected: 'input_image.size() == Size(inputW, inputH)'), where
+>     'input_image.size()' is [511 x 1024]
+> must be equal to
+>     'Size(inputW, inputH)' is [224 x 224]
+. Filename: C:\Project\pol-vgg-yunet/data/dataset/64002924e3ef43e72bf1b822/64002924e3ef43e72bf1b822.jpg
+2023-03-16 11:43:22,536 - app - ERROR - imgAugmentation:259 - ERROR - OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\objdetect\src\face_detect.cpp:99: error: (-2:Unspecified error) in function 'int __cdecl cv::FaceDetectorYNImpl::detect(const class cv::_InputArray &,const class cv::_OutputArray &)'
+> Size does not match. Call setInputSize(size) if input size does not match the preset size (expected: 'input_image.size() == Size(inputW, inputH)'), where
+>     'input_image.size()' is [275 x 183]
+> must be equal to
+>     'Size(inputW, inputH)' is [224 x 224]
+. Filename: C:\Project\pol-vgg-yunet/data/dataset/64002924e3ef43e72bf1b823/64002924e3ef43e72bf1b823.jpg
+2023-03-16 11:43:24,993 - app - ERROR - imgAugmentation:259 - ERROR - OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\objdetect\src\face_detect.cpp:99: error: (-2:Unspecified error) in function 'int __cdecl cv::FaceDetectorYNImpl::detect(const class cv::_InputArray &,const class cv::_OutputArray &)'
+> Size does not match. Call setInputSize(size) if input size does not match the preset size (expected: 'input_image.size() == Size(inputW, inputH)'), where
+>     'input_image.size()' is [540 x 395]
+> must be equal to
+>     'Size(inputW, inputH)' is [224 x 224]
+. Filename: C:\Project\pol-vgg-yunet/data/dataset/64002924e3ef43e72bf1b824/64002924e3ef43e72bf1b824.jpg
+2023-03-16 11:43:27,805 - app - ERROR - imgAugmentation:259 - ERROR - OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\objdetect\src\face_detect.cpp:99: error: (-2:Unspecified error) in function 'int __cdecl cv::FaceDetectorYNImpl::detect(const class cv::_InputArray &,const class cv::_OutputArray &)'
+> Size does not match. Call setInputSize(size) if input size does not match the preset size (expected: 'input_image.size() == Size(inputW, inputH)'), where
+>     'input_image.size()' is [240 x 240]
+> must be equal to
+>     'Size(inputW, inputH)' is [224 x 224]
+. Filename: C:\Project\pol-vgg-yunet/data/dataset/64002924e3ef43e72bf1b825/64002924e3ef43e72bf1b825.jpg
+2023-03-16 11:43:31,354 - app - ERROR - imgAugmentation:259 - ERROR - OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\objdetect\src\face_detect.cpp:99: error: (-2:Unspecified error) in function 'int __cdecl cv::FaceDetectorYNImpl::detect(const class cv::_InputArray &,const class cv::_OutputArray &)'
+> Size does not match. Call setInputSize(size) if input size does not match the preset size (expected: 'input_image.size() == Size(inputW, inputH)'), where
+>     'input_image.size()' is [1264 x 1239]
+> must be equal to
+>     'Size(inputW, inputH)' is [224 x 224]
+. Filename: C:\Project\pol-vgg-yunet/data/dataset/64002924e3ef43e72bf1b826/64002924e3ef43e72bf1b826.jpg
+2023-03-16 11:43:34,843 - app - ERROR - imgAugmentation:259 - ERROR - OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\objdetect\src\face_detect.cpp:99: error: (-2:Unspecified error) in function 'int __cdecl cv::FaceDetectorYNImpl::detect(const class cv::_InputArray &,const class cv::_OutputArray &)'
+> Size does not match. Call setInputSize(size) if input size does not match the preset size (expected: 'input_image.size() == Size(inputW, inputH)'), where
+>     'input_image.size()' is [1080 x 715]
+> must be equal to
+>     'Size(inputW, inputH)' is [224 x 224]
+. Filename: C:\Project\pol-vgg-yunet/data/dataset/64002924e3ef43e72bf1b827/64002924e3ef43e72bf1b827.jpg
+2023-03-16 11:43:55,262 - app - INFO - encodeFaces:48 - First time training, creating new initial train file.
+2023-03-16 11:43:55,262 - app - INFO - updateDataset:210 - Updating datasets... (This may took a while)
+2023-03-16 11:43:57,888 - app - ERROR - imgAugmentation:259 - ERROR - OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\objdetect\src\face_detect.cpp:99: error: (-2:Unspecified error) in function 'int __cdecl cv::FaceDetectorYNImpl::detect(const class cv::_InputArray &,const class cv::_OutputArray &)'
+> Size does not match. Call setInputSize(size) if input size does not match the preset size (expected: 'input_image.size() == Size(inputW, inputH)'), where
+>     'input_image.size()' is [700 x 393]
+> must be equal to
+>     'Size(inputW, inputH)' is [224 x 224]
+. Filename: C:\Project\pol-vgg-yunet/data/dataset/64002924e3ef43e72bf1b820/64002924e3ef43e72bf1b820.jpg
+2023-03-16 11:45:13,157 - app - INFO - encodeFaces:48 - First time training, creating new initial train file.
+2023-03-16 11:45:13,157 - app - INFO - updateDataset:210 - Updating datasets... (This may took a while)
+2023-03-16 11:45:15,705 - app - ERROR - imgAugmentation:259 - ERROR - OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\objdetect\src\face_detect.cpp:99: error: (-2:Unspecified error) in function 'int __cdecl cv::FaceDetectorYNImpl::detect(const class cv::_InputArray &,const class cv::_OutputArray &)'
+> Size does not match. Call setInputSize(size) if input size does not match the preset size (expected: 'input_image.size() == Size(inputW, inputH)'), where
+>     'input_image.size()' is [700 x 393]
+> must be equal to
+>     'Size(inputW, inputH)' is [320 x 320]
+. Filename: C:\Project\pol-vgg-yunet/data/dataset/64002924e3ef43e72bf1b820/64002924e3ef43e72bf1b820.jpg
+2023-03-16 11:45:18,557 - app - ERROR - imgAugmentation:259 - ERROR - OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\objdetect\src\face_detect.cpp:99: error: (-2:Unspecified error) in function 'int __cdecl cv::FaceDetectorYNImpl::detect(const class cv::_InputArray &,const class cv::_OutputArray &)'
+> Size does not match. Call setInputSize(size) if input size does not match the preset size (expected: 'input_image.size() == Size(inputW, inputH)'), where
+>     'input_image.size()' is [220 x 293]
+> must be equal to
+>     'Size(inputW, inputH)' is [320 x 320]
+. Filename: C:\Project\pol-vgg-yunet/data/dataset/64002924e3ef43e72bf1b821/64002924e3ef43e72bf1b821.jpg
+2023-03-16 11:48:26,047 - app - INFO - encodeFaces:48 - First time training, creating new initial train file.
+2023-03-16 11:48:26,047 - app - INFO - updateDataset:210 - Updating datasets... (This may took a while)
+2023-03-16 11:48:54,640 - app - INFO - encodeFaces:48 - First time training, creating new initial train file.
+2023-03-16 11:48:54,640 - app - INFO - updateDataset:210 - Updating datasets... (This may took a while)
+2023-03-16 11:49:28,362 - app - INFO - encodeFaces:48 - First time training, creating new initial train file.
+2023-03-16 11:49:28,362 - app - INFO - updateDataset:210 - Updating datasets... (This may took a while)
+2023-03-16 11:50:10,477 - app - INFO - encodeFaces:48 - First time training, creating new initial train file.
+2023-03-16 11:50:10,477 - app - INFO - updateDataset:210 - Updating datasets... (This may took a while)
+2023-03-16 11:52:24,952 - app - ERROR - imgAugmentation:261 - ERROR - OpenCV(4.7.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:182: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+. Filename: C:\Project\pol-vgg-yunet/data/dataset/64002924e3ef43e72bf1b84c/64002924e3ef43e72bf1b84c.jpg
+2023-03-16 11:55:05,889 - app - ERROR - imgAugmentation:261 - ERROR - cannot convert float infinity to integer. Filename: C:\Project\pol-vgg-yunet/data/dataset/64002924e3ef43e72bf1b87e/64002924e3ef43e72bf1b87e.jpg
+2023-03-16 11:55:10,888 - app - ERROR - imgAugmentation:261 - ERROR - cannot convert float infinity to integer. Filename: C:\Project\pol-vgg-yunet/data/dataset/64002924e3ef43e72bf1b880/64002924e3ef43e72bf1b880.jpg
+2023-03-16 11:55:21,686 - app - INFO - updateDataset:236 - Datasets updated!
+2023-03-16 11:55:21,687 - app - INFO - encodeFaces:54 - Encoding Faces... (This may take a while)
+2023-03-16 12:18:39,739 - app - INFO - encodeFaces:134 - Encoding Done!
+2023-03-16 13:00:17,743 - app - INFO - process:42 - Saving image to C:\Project\pol-vgg-yunet/data/output/20230316/1/data/input.jpg
+2023-03-16 13:00:17,744 - app - INFO - recog:137 - Recognizing faces into user IDs
+2023-03-16 13:00:18,384 - app - INFO - process:60 - API return success. Request fulfilled.
+2023-03-16 13:00:21,401 - app - INFO - process:42 - Saving image to C:\Project\pol-vgg-yunet/data/output/20230316/2/data/input.jpg
+2023-03-16 13:00:21,402 - app - INFO - recog:137 - Recognizing faces into user IDs
+2023-03-16 13:00:22,010 - app - INFO - process:60 - API return success. Request fulfilled.
+2023-03-16 13:00:32,628 - app - INFO - process:42 - Saving image to C:\Project\pol-vgg-yunet/data/output/20230316/3/data/input.jpg
+2023-03-16 13:00:32,629 - app - INFO - recog:137 - Recognizing faces into user IDs
+2023-03-16 13:00:33,297 - app - INFO - process:60 - API return success. Request fulfilled.

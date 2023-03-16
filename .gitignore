@@ -1,0 +1,5 @@
+.yoloface/
+data/dataset/*
+data/output/*
+
+!.gitkeep
